@@ -1,5 +1,6 @@
 # ASH: A Robust Automated Evaluation Framework for Creative Text Generation in Cuisine Transfer Tasks
 
+[![DOI](https://zenodo.org/badge/1154365205.svg)](https://doi.org/10.5281/zenodo.18599958)
 **Submitted to IEEE Transactions on Big Data**
 
 ## Overview
